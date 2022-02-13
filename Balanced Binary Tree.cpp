@@ -9,6 +9,9 @@ public:
         return true;
     }
     
+    
+// helper function
+    
 private:
     int height(TreeNode* root){
         if(!root){
