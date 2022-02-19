@@ -11,6 +11,7 @@ public:
     
     
 // helper function
+// It is basically doing the checking stuff with the height of the binary tree because we have to check every node anyway
     
 private:
     int height(TreeNode* root){
